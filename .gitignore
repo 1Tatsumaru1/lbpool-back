@@ -1,0 +1,7 @@
+.env
+.htaccess
+.old_htaccess
+vendor
+composer.json
+composer.lock
+.user.ini
